@@ -24,19 +24,21 @@ See my [website](https://adambryant.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">D&D 5e SpellList</h3>
+      <h3 align="center">D&D 5e Spellbook</h3>
         <br />
-        <a target="_blank" href="https://tidal-relieved-parent.glitch.me/">
+        <a target="_blank" href="https://github.com/PiantaSE/DnD-Spellbook">
             <img src="images/dnd.gif" width="100%" alt="D&D 5e SpellList"/>
         </a>
         <br />
         <p align="center">
-          
+  <a href="https://github.com/PiantaSE/Falconia-Flowers" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>       
   <a href="https://tidal-relieved-parent.glitch.me/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Passport.js, Node.js, Express.js, & MongoDB</strong> - Tool used to create your very own D&D 5e spell list! With passport authenticaton, you are able to have unique spell lists for different characters. </p>
+        <p><strong>Javascript, Passport.js, Node.js, Express.js, & MongoDB</strong> - Tool used to create your very own D&D 5e spellbook! With passport authenticaton, you are able to have unique spellbooks for different characters. </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Falconia Flowers</h3>
