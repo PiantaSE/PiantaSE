@@ -31,7 +31,7 @@ See my [website](https://adambryant.netlify.app/) for more information!
         </a>
         <br />
         <p align="center">
-  <a href="https://github.com/PiantaSE/Falconia-Flowers" target="_blank">
+  <a href="https://github.com/PiantaSE/DnD-Spellbook" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>       
   <a href="https://tidal-relieved-parent.glitch.me/" target="_blank">
