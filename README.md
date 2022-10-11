@@ -26,7 +26,7 @@ See my [website](https://adambryant.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">D&D 5e Spellbook</h3>
         <br />
-        <a target="_blank" href="https://github.com/PiantaSE/DnD-Spellbook">
+        <a target="_blank" href="https://dnd-spellbook-app.herokuapp.com/">
             <img src="images/dnd.gif" width="100%" alt="D&D 5e SpellList"/>
         </a>
         <br />
