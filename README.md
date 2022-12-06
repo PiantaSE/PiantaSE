@@ -114,6 +114,7 @@ See my [website](https://adambryant.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=23555fstyle=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=285f65&style=plastic&logo=aws"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=316c5e&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ANGULAR&color=4a935c&style=plastic&logo=angular"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ELECTRON&color=316c5e&style=plastic&logo=electron"/>
