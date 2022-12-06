@@ -26,7 +26,7 @@ See my [website](https://adambryant.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Bug Logger</h3>
         <br />
-        <a target="_blank" href="https://bug-logger-reactstrap.herokuapp.com/">
+        <a target="_blank" href="https://bug-logger-reactstrap.cyclic.app/">
             <img src="images/bl.gif" width="100%" alt="buglogger"/>
         </a>
         <br />
@@ -34,7 +34,7 @@ See my [website](https://adambryant.netlify.app/) for more information!
   <a href="https://github.com/PiantaSE/bug-logger-reactstrap" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>       
-  <a href="https://bug-logger-reactstrap.herokuapp.com/" target="_blank">
+  <a href="https://bug-logger-reactstrap.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
