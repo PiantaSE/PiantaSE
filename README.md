@@ -38,7 +38,7 @@ See my [website](https://adambryant.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>PostgreSQL, Express.js, React.js, Node.js, Bootstrap.js, JSON Web Token, Bcrypt.js</strong> - A bug logger app made with PERN stack hosted on Heroku. Check the README for Demo accounts! </p>
+        <p><strong>PostgreSQL, Express.js, React.js, Node.js, Bootstrap.js, JSON Web Token, Bcrypt.js</strong> - A bug logger app made with PERN stack hosted on Cyclic / AWS. Check the README for Demo accounts! </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">D&D 5e Spellbook</h3>
